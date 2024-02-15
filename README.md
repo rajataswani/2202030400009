@@ -2,8 +2,6 @@
 
 ---
 
-### To My Esteemed Faculties,
-
 I hope this message finds you well amidst your busy schedules. As I present my college assignments through this repository, I want to express my sincere gratitude for the knowledge, guidance, and support you have provided throughout the course.
 
 Each assignment represents not only my effort but also the invaluable lessons learned and the growth experienced along the way. Your dedication to imparting knowledge and nurturing our development has been truly inspiring.
@@ -15,3 +13,4 @@ Thank you for your unwavering support and encouragement. I am eager to continue 
 Warm regards,
 
 Rajat Aswani
+---
